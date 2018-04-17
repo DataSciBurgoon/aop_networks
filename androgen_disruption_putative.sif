@@ -1,0 +1,7 @@
+change in organ weight	activates	androgenicity
+alteration of androgen receptor mediated gene expression	activates	change in organ weight
+binding to androgen receptor	activates	androgen receptor dimerization
+androgen receptor dimerization	activates	androgen receptor dimer translocation to nucleus
+androgen receptor dimer translocation to nucleus	activates	androgen receptor dimer binding to androgen response
+androgen receptor dimer binding to androgen response	activates	cofactor recruitment
+cofactor recruitment	activates	alteration of androgen receptor mediated gene expression

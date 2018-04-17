@@ -1,0 +1,14 @@
+estrogen receptor	activates expression	amphiregulin
+amphiregulin	activates	EGFR
+ADAM17	activates	amphiregulin
+EGFR	activates	FGF
+EGFR	activates	decorin
+FGF	activates	Tbx3
+decorin	inhibits	TGF-beta
+TGF-beta	inhibits	proliferation of initiated stem cell
+proliferation of initiated stem cell	produces	luminal progenitor cell
+proliferation of initiated stem cell	produces	initiated myoepithelial progenitor cell
+initiated myoepithelial progenitor cell	produces	initiated epithelial cell
+initiated epithelial cell	activates	breast cancer
+Tbx3	activates	proliferation of initiated stem cell
+stressor	activates	estrogen receptor

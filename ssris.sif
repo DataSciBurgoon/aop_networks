@@ -1,0 +1,29 @@
+SSRI	inhibits	serotonin transporter
+vascular smooth muscle contraction	activates	hypertension
+myosin light chain phosphorylation	activates	vascular smooth muscle contraction
+Calmodulin	activates	myosin light chain phosphorylation
+intracellular_Ca+	activates	Calmodulin
+Inositol trisphosphate	activates	intracellular_Ca+
+PLC	activates	Inositol trisphosphate
+5-HT2A	activates	PLC
+5-HTR	activates expression	BDNF
+BDNF	activates	neuroplasticity
+neuroplasticity	inhibits	agitation
+neuroplasticity	inhibits	depression
+glucocoritcoid_receptor	inhibits	BDNF
+cortisone	activates	glucocoritcoid_receptor
+stress	activates	cortisone
+extracellular_serotonin	activates	5-HT2A
+extracellular_serotonin	activates	5-HTR
+extracellular_serotonin	activates	5-HT3
+extracellular_norepinephrine
+serotonin transporter	activates	intracellular_serotonin
+serotonin transporter	activates	intracellular_Na+
+serotonin transporter	activates	intracellular_Cl-
+serotonin transporter	decreases	extracellular_serotonin
+serotonin transporter	decreases	extracellular_Na+
+serotonin transporter	decreases	extracellular_Cl-
+intracellular_serotonin	activates	packaged_serotonin
+5-HT3	inhibits	seizure
+packaged_serotonin	activates	synaptic_release
+synaptic_release	activates	extracellular_serotonin

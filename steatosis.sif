@@ -1,0 +1,29 @@
+Peroxisomal Fatty Acid Beta Oxidation	inhibits	long chain fatty acids
+long chain fatty acids	interacts with	cytosolic fatty acids
+insulin receptor	interacts with	mTORC2
+mTORC2	interacts with	AKT
+SCD1	interacts with	lipogenesis
+SHP	interacts with	LXR
+SHP	interacts with	PPARalpha
+SHP	inhibits	LRH-1
+NFE2/Nrf2	interacts with	FXR
+FXR	interacts with	PPARalpha
+FXR	interacts with	SHP
+FAS	interacts with	lipogenesis
+lipogenesis	interacts with	cytosolic fatty acids
+AKT	interacts with	L-FABP
+AKT	interacts with	mTORC1
+LXR	interacts with	PPARalpha
+LXR	interacts with	FAS
+PPARgamma	interacts with	FAS
+PPARalpha	interacts with	Peroxisomal Fatty Acid Beta Oxidation
+LRH-1	interacts with	FAS
+PI3K	interacts with	AKT
+PI3K	interacts with	aPKC
+PI3K	interacts with	L-FABP
+aPKC	interacts with	SREBP-1
+SREBP-1	interacts with	SCD1
+L-FABP	interacts with	cytosolic fatty acids
+L-FABP	interacts with	PPARgamma
+cytosolic fatty acids	interacts with	Steatosis
+mTORC1	interacts with	SREBP-1

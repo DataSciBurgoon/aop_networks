@@ -1,0 +1,101 @@
+Palb2	activates	Nrf2
+Brca1	activates	Nrf2
+Keap1	inhibits	Nrf2
+Pgd	activates	DNA Synthesis
+G6PD	activates	DNA Synthesis
+Nrf2	activates	GCLM
+Nrf2	activates	GPX1
+Nrf2	activates	Pgd
+Nrf2	activates	G6PD
+DNA Synthesis	activates	cell proliferation
+L-Glutamate	activates	GCLM
+L-gamma-glutamyl-L-cysteine	activates	GSS
+GCLM	activates	L-gamma-glutamyl-L-cysteine
+GSS	activates	GSH
+GSH	activates	GST
+GSH	activates	GPX1
+GST	activates	Reduced Substrate
+GST	activates	GSSG
+Electrophilic Substrate	activates	Keap1
+Electrophilic Substrate	activates	GST
+Electrophilic Substrate	activates	oxidative DNA damage
+Electrophilic Substrate	activates	lipid peroxidation
+Electrophilic Substrate	activates	PRDX1,2,5
+Electrophilic Substrate	activates	TXN
+GSSG	activates	GSR
+GSR	activates	GSH
+oxidative DNA damage	inhibits	genetic stability
+oxidative DNA damage	activates	spontaneous mutation
+GPX1	activates	GSSG
+GPX1	activates	alcohols
+GPX1	activates	H2O
+peroxides	activates	GPX1
+peroxides	activates	PRDX1,2,5
+peroxides	activates	lipid peroxidation
+peroxides	activates	oxidative DNA damage
+peroxides	activates	JNK
+TRXR	activates	TXN
+PRDX1,2,5	activates	H2O
+PRDX1,2,5	activates	TXN*
+TXN	activates	TXN*
+TXN	activates	PRDX1,2,5
+TXN*	activates	TRXR
+s-adenosylmethionine	activates	DNMT1
+s-adenosylmethionine	activates	DNMT3A
+DNMT1	activates	DNA Methylation
+DNA Methylation	activates	genetic stability
+DNA Methylation	activates	spontaneous mutation
+DNA Methylation	activates	gene silencing
+DNMT3A	activates	DNA Methylation
+spontaneous mutation	activates	cellular transformation
+gene silencing	activates	cellular transformation
+cellular transformation	activates	tumorigenesis
+tumorigenesis	activates	carcinogenesis
+PKC	activates	JNK
+JNK	activates	c-jun
+JNK	activates	AMPK
+c-fos	activates	AP-1
+c-jun	activates	AP-1
+AP-1	activates	c-jun
+AP-1	inhibits	p21
+AP-1	activates	CYCD1
+AP-1	inhibits	p53
+AP-1	inhibits	c-fos
+JNK Phosphatase	inhibits	JNK
+G1/S transition	activates	DNA Synthesis
+p53	activates	p21
+p21	inhibits	Cyclin-CDK Complex
+CYCD1	activates	Cyclin-CDK Complex
+CDK4	activates	Cyclin-CDK Complex
+pRb	inhibits	G1/S transition
+cell proliferation	activates	cellular transformation
+FGFR3	activates	FGFR3 Fusion Dimer
+FGFR3 Fusion Dimer	activates	PI3K
+PI3K	activates	PIP3
+PIP2	activates	PI3K
+PIP3	activates	AKT
+AKT	inhibits	p21
+AKT	activates	VEGF
+Cyclin-CDK Complex	inhibits	pRb
+EGFR Fusion Dimer	activates	PI3K
+EGFR	activates	EGFR Fusion Dimer
+ERBB2	activates	PI3K
+VEGF	activates	angiogenesis
+angiogenesis	activates	tumorigenesis
+HIF-1a	activates	VEGF
+HIF-1a	activates	p-HIF-1a
+pVHL	inhibits	HIF-1a
+PHD	inhibits	HIF-1a
+O2	activates	PHD
+AMPK	inhibits	pVHL
+p-HIF-1a	activates	pVHL
+p-HIF-1a	activates	VEGF
+cellular matrix stabilization	activates	angiogenesis
+cellular matrix stabilization	inhibits	invasion
+plasminogen activation	inhibits	cellular matrix stabilization
+invasion	activates	carcinogenesis
+PAI-1	inhibits	plasminogen activation
+GPCR	activates	PI3K
+RTK	activates	PI3K
+AhR	activates	CYP1A1
+CYP1A1	activates	Electrophilic Substrate

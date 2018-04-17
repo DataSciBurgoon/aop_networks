@@ -1,0 +1,14 @@
+membrane depolarization	activates	hippocampal hyperdepolarization
+voltage gated sodium channel	activates	membrane depolarization
+GABA-A receptor	activates	intracellular Cl-
+hippocampal hyperdepolarization	activates	seizure
+seizure	activates	epilepsy
+NMDA receptor	activates	intracellular Na+
+glutamate	activates	NMDA receptor
+presynaptic neuron 1	activates	glutamate
+intracellular Na+	activates	voltage gated sodium channel
+GABA	activates	GABA-A receptor
+intracellular Cl-	inhibits	membrane depolarization
+presynaptic neuron 2	activates	GABA
+carbamazepine	inhibits	voltage gated sodium channel
+RDX	inhibits	GABA-A receptor

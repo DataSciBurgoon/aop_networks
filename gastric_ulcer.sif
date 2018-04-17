@@ -1,0 +1,25 @@
+NSAID	inhibits	PTGS2
+NSAID	inhibits	PTGS1
+leukocyte activation	activates	gastric ulcer
+leukocyte adherence	activates	leukocyte activation
+angiogenesis	inhibits	gastric ulcer
+mucosal blood flow	activates	mucosal defense
+platelet aggregation	inhibits	gastric ulcer
+PTGS2	inhibits	leukocyte adherence
+PTGS2	activates	angiogenesis
+mucosal defense	inhibits	gastric ulcer
+mucous	activates	mucosal defense
+bicarbonate	activates	mucosal defense
+surfactant	activates	mucosal defense
+Helicobacter pylori	activates	phospholipase
+Helicobacter pylori	activates	NH4+
+phospholipase	inhibits	surfactant
+NH4+	inhibits	surfactant
+PTGS1	activates	mucosal blood flow
+PTGS1	activates	platelet aggregation
+PTGS1	activates	bicarbonate
+PTGS1	activates	mucous
+CB1	inhibits	gastric ulcer
+CB2	inhibits	gastric ulcer
+FAAH	inhibits	CB1
+FAAH	inhibits	CB2

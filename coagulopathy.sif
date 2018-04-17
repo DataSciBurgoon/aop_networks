@@ -1,0 +1,11 @@
+hypothermia	activates	coagulopathy
+metabolic_acidosis	activates	hypothermia
+coagulopathy	activates	metabolic_acidosis
+thrombomodulin	inhibits	thrombin
+thrombin	activates	platelet_activation
+thrombus	inhibits	coagulopathy
+platelet_activation	activates	thrombus
+MAPK3	activates	platelet_activation
+MMP1	activates	platelet_activation
+platelet_proliferation	activates	platelet_activation
+p53	inhibits	platelet_proliferation
