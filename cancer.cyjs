@@ -5,1972 +5,2148 @@
   "data" : {
     "shared_name" : "cancer.sif",
     "name" : "cancer.sif",
-    "SUID" : 553,
-    "__Annotations" : [ ],
+    "SUID" : 1377,
+    "__Annotations" : [ "" ],
     "selected" : true
   },
   "elements" : {
     "nodes" : [ {
       "data" : {
-        "id" : "762",
-        "shared_name" : "Palb2",
-        "name" : "Palb2",
-        "degree_layout" : 1,
-        "SUID" : 762,
+        "id" : "1830",
+        "shared_name" : "translesion synthesis",
+        "name" : "translesion synthesis",
+        "SUID" : 1830,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "760",
-        "shared_name" : "Brca1",
-        "name" : "Brca1",
-        "degree_layout" : 1,
-        "SUID" : 760,
+        "id" : "1826",
+        "shared_name" : "PCNA",
+        "name" : "PCNA",
+        "SUID" : 1826,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "753",
-        "shared_name" : "Pgd",
-        "name" : "Pgd",
-        "degree_layout" : 2,
-        "SUID" : 753,
+        "id" : "1818",
+        "shared_name" : "c-myc",
+        "name" : "c-myc",
+        "SUID" : 1818,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "751",
-        "shared_name" : "G6PD",
-        "name" : "G6PD",
-        "degree_layout" : 2,
-        "SUID" : 751,
+        "id" : "1814",
+        "shared_name" : "IRES",
+        "name" : "IRES",
+        "SUID" : 1814,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "750",
-        "shared_name" : "Nrf2",
-        "name" : "Nrf2",
-        "degree_layout" : 7,
-        "SUID" : 750,
+        "id" : "1810",
+        "shared_name" : "protein translation",
+        "name" : "protein translation",
+        "SUID" : 1810,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "747",
-        "shared_name" : "L-Glutamate",
-        "name" : "L-Glutamate",
-        "degree_layout" : 1,
-        "SUID" : 747,
+        "id" : "1804",
+        "shared_name" : "HRI",
+        "name" : "HRI",
+        "SUID" : 1804,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "744",
-        "shared_name" : "L-gamma-glutamyl-L-cysteine",
-        "name" : "L-gamma-glutamyl-L-cysteine",
-        "degree_layout" : 2,
-        "SUID" : 744,
+        "id" : "1798",
+        "shared_name" : "eIF2a",
+        "name" : "eIF2a",
+        "SUID" : 1798,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "743",
-        "shared_name" : "GCLM",
-        "name" : "GCLM",
-        "degree_layout" : 3,
-        "SUID" : 743,
+        "id" : "1794",
+        "shared_name" : "PERK",
+        "name" : "PERK",
+        "SUID" : 1794,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "741",
-        "shared_name" : "GSS",
-        "name" : "GSS",
-        "degree_layout" : 2,
-        "SUID" : 741,
+        "id" : "1790",
+        "shared_name" : "endoplasmic reticulum stress",
+        "name" : "endoplasmic reticulum stress",
+        "SUID" : 1790,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "736",
-        "shared_name" : "Reduced Substrate",
-        "name" : "Reduced Substrate",
-        "degree_layout" : 1,
-        "SUID" : 736,
+        "id" : "1788",
+        "shared_name" : "protein misfolding",
+        "name" : "protein misfolding",
+        "SUID" : 1788,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "733",
-        "shared_name" : "Keap1",
-        "name" : "Keap1",
-        "degree_layout" : 2,
-        "SUID" : 733,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "727",
-        "shared_name" : "Electrophilic Substrate",
-        "name" : "Electrophilic Substrate",
-        "degree_layout" : 6,
-        "SUID" : 727,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "724",
-        "shared_name" : "GSH",
-        "name" : "GSH",
-        "degree_layout" : 4,
-        "SUID" : 724,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "720",
-        "shared_name" : "GSR",
-        "name" : "GSR",
-        "degree_layout" : 2,
-        "SUID" : 720,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "718",
-        "shared_name" : "GST",
-        "name" : "GST",
-        "degree_layout" : 4,
-        "SUID" : 718,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "711",
-        "shared_name" : "alcohols",
-        "name" : "alcohols",
-        "degree_layout" : 1,
-        "SUID" : 711,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "708",
-        "shared_name" : "GPX1",
-        "name" : "GPX1",
-        "degree_layout" : 6,
-        "SUID" : 708,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "705",
-        "shared_name" : "lipid peroxidation",
-        "name" : "lipid peroxidation",
-        "degree_layout" : 2,
-        "SUID" : 705,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "703",
-        "shared_name" : "oxidative DNA damage",
-        "name" : "oxidative DNA damage",
-        "degree_layout" : 4,
-        "SUID" : 703,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "701",
-        "shared_name" : "peroxides",
-        "name" : "peroxides",
-        "degree_layout" : 5,
-        "SUID" : 701,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "698",
-        "shared_name" : "H2O",
-        "name" : "H2O",
-        "degree_layout" : 2,
-        "SUID" : 698,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "694",
-        "shared_name" : "PRDX1,2,5",
-        "name" : "PRDX1,2,5",
-        "degree_layout" : 5,
-        "SUID" : 694,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "693",
-        "shared_name" : "TXN",
-        "name" : "TXN",
-        "degree_layout" : 4,
-        "SUID" : 693,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "691",
-        "shared_name" : "TRXR",
-        "name" : "TRXR",
-        "degree_layout" : 2,
-        "SUID" : 691,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "690",
-        "shared_name" : "TXN*",
-        "name" : "TXN*",
-        "degree_layout" : 3,
-        "SUID" : 690,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "684",
-        "shared_name" : "s-adenosylhomocysteine",
-        "name" : "s-adenosylhomocysteine",
-        "degree_layout" : 1,
-        "SUID" : 684,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "678",
-        "shared_name" : "TMA",
-        "name" : "TMA",
-        "degree_layout" : 2,
-        "SUID" : 678,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "675",
-        "shared_name" : "AS3MT",
-        "name" : "AS3MT",
-        "degree_layout" : 4,
-        "SUID" : 675,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "672",
-        "shared_name" : "s-adenosylmethionine",
-        "name" : "s-adenosylmethionine",
-        "degree_layout" : 3,
-        "SUID" : 672,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "670",
-        "shared_name" : "DNMT1",
-        "name" : "DNMT1",
-        "degree_layout" : 2,
-        "SUID" : 670,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "668",
-        "shared_name" : "genetic stability",
-        "name" : "genetic stability",
-        "degree_layout" : 2,
-        "SUID" : 668,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "664",
-        "shared_name" : "DNA Methylation",
-        "name" : "DNA Methylation",
-        "degree_layout" : 5,
-        "SUID" : 664,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "663",
-        "shared_name" : "DNMT3A",
-        "name" : "DNMT3A",
-        "degree_layout" : 2,
-        "SUID" : 663,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "661",
-        "shared_name" : "spontaneous mutation",
-        "name" : "spontaneous mutation",
-        "degree_layout" : 3,
-        "SUID" : 661,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "659",
-        "shared_name" : "gene silencing",
-        "name" : "gene silencing",
-        "degree_layout" : 2,
-        "SUID" : 659,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "655",
-        "shared_name" : "PKC",
-        "name" : "PKC",
-        "degree_layout" : 4,
-        "SUID" : 655,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "649",
-        "shared_name" : "c-jun",
-        "name" : "c-jun",
-        "degree_layout" : 3,
-        "SUID" : 649,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "644",
-        "shared_name" : "c-fos",
-        "name" : "c-fos",
-        "degree_layout" : 2,
-        "SUID" : 644,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "643",
-        "shared_name" : "AP-1",
-        "name" : "AP-1",
-        "degree_layout" : 7,
-        "SUID" : 643,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "641",
-        "shared_name" : "JNK",
-        "name" : "JNK",
-        "degree_layout" : 5,
-        "SUID" : 641,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "640",
-        "shared_name" : "JNK Phosphatase",
-        "name" : "JNK Phosphatase",
-        "degree_layout" : 2,
-        "SUID" : 640,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "638",
-        "shared_name" : "DNA Synthesis",
-        "name" : "DNA Synthesis",
-        "degree_layout" : 4,
-        "SUID" : 638,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "636",
-        "shared_name" : "p53",
-        "name" : "p53",
-        "degree_layout" : 2,
-        "SUID" : 636,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "633",
-        "shared_name" : "CYCD1",
-        "name" : "CYCD1",
-        "degree_layout" : 2,
-        "SUID" : 633,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "631",
-        "shared_name" : "CDK4",
-        "name" : "CDK4",
-        "degree_layout" : 1,
-        "SUID" : 631,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "629",
-        "shared_name" : "G1/S transition",
-        "name" : "G1/S transition",
-        "degree_layout" : 2,
-        "SUID" : 629,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "627",
-        "shared_name" : "cellular transformation",
-        "name" : "cellular transformation",
-        "degree_layout" : 4,
-        "SUID" : 627,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "626",
-        "shared_name" : "cell proliferation",
-        "name" : "cell proliferation",
-        "degree_layout" : 2,
-        "SUID" : 626,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "624",
-        "shared_name" : "FGFR3",
-        "name" : "FGFR3",
-        "degree_layout" : 1,
-        "SUID" : 624,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "622",
-        "shared_name" : "FGFR3 Fusion Dimer",
-        "name" : "FGFR3 Fusion Dimer",
-        "degree_layout" : 2,
-        "SUID" : 622,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "619",
-        "shared_name" : "PIP2",
-        "name" : "PIP2",
-        "degree_layout" : 1,
-        "SUID" : 619,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "617",
-        "shared_name" : "PIP3",
-        "name" : "PIP3",
-        "degree_layout" : 2,
-        "SUID" : 617,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "615",
-        "shared_name" : "p21",
-        "name" : "p21",
-        "degree_layout" : 4,
-        "SUID" : 615,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "613",
-        "shared_name" : "AKT",
-        "name" : "AKT",
-        "degree_layout" : 3,
-        "SUID" : 613,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "611",
-        "shared_name" : "pRb",
-        "name" : "pRb",
-        "degree_layout" : 2,
-        "SUID" : 611,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "610",
-        "shared_name" : "Cyclin-CDK Complex",
-        "name" : "Cyclin-CDK Complex",
-        "degree_layout" : 4,
-        "SUID" : 610,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "607",
-        "shared_name" : "EGFR Fusion Dimer",
-        "name" : "EGFR Fusion Dimer",
-        "degree_layout" : 2,
-        "SUID" : 607,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "606",
-        "shared_name" : "EGFR",
-        "name" : "EGFR",
-        "degree_layout" : 1,
-        "SUID" : 606,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "604",
-        "shared_name" : "GSSG",
-        "name" : "GSSG",
-        "degree_layout" : 3,
-        "SUID" : 604,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "600",
-        "shared_name" : "DMA",
-        "name" : "DMA",
-        "degree_layout" : 3,
-        "SUID" : 600,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "597",
-        "shared_name" : "ERBB2",
-        "name" : "ERBB2",
-        "degree_layout" : 1,
-        "SUID" : 597,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "594",
-        "shared_name" : "tumorigenesis",
-        "name" : "tumorigenesis",
-        "degree_layout" : 3,
-        "SUID" : 594,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "589",
-        "shared_name" : "HIF-1a",
-        "name" : "HIF-1a",
-        "degree_layout" : 4,
-        "SUID" : 589,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "587",
-        "shared_name" : "PHD",
-        "name" : "PHD",
-        "degree_layout" : 2,
-        "SUID" : 587,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "586",
-        "shared_name" : "O2",
-        "name" : "O2",
-        "degree_layout" : 1,
-        "SUID" : 586,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "584",
-        "shared_name" : "AMPK",
-        "name" : "AMPK",
-        "degree_layout" : 2,
-        "SUID" : 584,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "582",
-        "shared_name" : "pVHL",
-        "name" : "pVHL",
-        "degree_layout" : 3,
-        "SUID" : 582,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "580",
-        "shared_name" : "VEGF",
-        "name" : "VEGF",
-        "degree_layout" : 4,
-        "SUID" : 580,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "579",
-        "shared_name" : "p-HIF-1a",
-        "name" : "p-HIF-1a",
-        "degree_layout" : 3,
-        "SUID" : 579,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "577",
-        "shared_name" : "angiogenesis",
-        "name" : "angiogenesis",
-        "degree_layout" : 3,
-        "SUID" : 577,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "574",
-        "shared_name" : "cellular matrix stabilization",
-        "name" : "cellular matrix stabilization",
-        "degree_layout" : 3,
-        "SUID" : 574,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "572",
-        "shared_name" : "carcinogenesis",
-        "name" : "carcinogenesis",
-        "degree_layout" : 2,
-        "SUID" : 572,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "571",
-        "shared_name" : "invasion",
-        "name" : "invasion",
-        "degree_layout" : 2,
-        "SUID" : 571,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "569",
-        "shared_name" : "plasminogen activation",
-        "name" : "plasminogen activation",
-        "degree_layout" : 2,
-        "SUID" : 569,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "568",
-        "shared_name" : "PAI-1",
-        "name" : "PAI-1",
-        "degree_layout" : 1,
-        "SUID" : 568,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "566",
-        "shared_name" : "GPCR",
-        "name" : "GPCR",
-        "degree_layout" : 1,
-        "SUID" : 566,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "564",
-        "shared_name" : "PI3K",
-        "name" : "PI3K",
-        "degree_layout" : 7,
-        "SUID" : 564,
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "563",
+        "id" : "1464",
         "shared_name" : "RTK",
         "name" : "RTK",
         "degree_layout" : 1,
-        "SUID" : 563,
+        "SUID" : 1464,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1463",
+        "shared_name" : "PI3K",
+        "name" : "PI3K",
+        "degree_layout" : 7,
+        "SUID" : 1463,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1462",
+        "shared_name" : "GPCR",
+        "name" : "GPCR",
+        "degree_layout" : 1,
+        "SUID" : 1462,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1461",
+        "shared_name" : "PAI-1",
+        "name" : "PAI-1",
+        "degree_layout" : 1,
+        "SUID" : 1461,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1460",
+        "shared_name" : "plasminogen activation",
+        "name" : "plasminogen activation",
+        "degree_layout" : 2,
+        "SUID" : 1460,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1459",
+        "shared_name" : "invasion",
+        "name" : "invasion",
+        "degree_layout" : 2,
+        "SUID" : 1459,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1458",
+        "shared_name" : "carcinogenesis",
+        "name" : "carcinogenesis",
+        "degree_layout" : 2,
+        "SUID" : 1458,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1457",
+        "shared_name" : "cellular matrix stabilization",
+        "name" : "cellular matrix stabilization",
+        "degree_layout" : 3,
+        "SUID" : 1457,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1456",
+        "shared_name" : "angiogenesis",
+        "name" : "angiogenesis",
+        "degree_layout" : 3,
+        "SUID" : 1456,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1455",
+        "shared_name" : "p-HIF-1a",
+        "name" : "p-HIF-1a",
+        "degree_layout" : 3,
+        "SUID" : 1455,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1454",
+        "shared_name" : "VEGF",
+        "name" : "VEGF",
+        "degree_layout" : 4,
+        "SUID" : 1454,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1453",
+        "shared_name" : "pVHL",
+        "name" : "pVHL",
+        "degree_layout" : 3,
+        "SUID" : 1453,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1452",
+        "shared_name" : "AMPK",
+        "name" : "AMPK",
+        "degree_layout" : 2,
+        "SUID" : 1452,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1451",
+        "shared_name" : "O2",
+        "name" : "O2",
+        "degree_layout" : 1,
+        "SUID" : 1451,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1450",
+        "shared_name" : "PHD",
+        "name" : "PHD",
+        "degree_layout" : 2,
+        "SUID" : 1450,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1449",
+        "shared_name" : "HIF-1a",
+        "name" : "HIF-1a",
+        "degree_layout" : 4,
+        "SUID" : 1449,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1448",
+        "shared_name" : "tumorigenesis",
+        "name" : "tumorigenesis",
+        "degree_layout" : 3,
+        "SUID" : 1448,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1447",
+        "shared_name" : "ERBB2",
+        "name" : "ERBB2",
+        "degree_layout" : 1,
+        "SUID" : 1447,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1445",
+        "shared_name" : "GSSG",
+        "name" : "GSSG",
+        "degree_layout" : 3,
+        "SUID" : 1445,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1444",
+        "shared_name" : "EGFR",
+        "name" : "EGFR",
+        "degree_layout" : 1,
+        "SUID" : 1444,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1443",
+        "shared_name" : "EGFR Fusion Dimer",
+        "name" : "EGFR Fusion Dimer",
+        "degree_layout" : 2,
+        "SUID" : 1443,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1442",
+        "shared_name" : "Cyclin-CDK Complex",
+        "name" : "Cyclin-CDK Complex",
+        "degree_layout" : 4,
+        "SUID" : 1442,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1441",
+        "shared_name" : "pRb",
+        "name" : "pRb",
+        "degree_layout" : 2,
+        "SUID" : 1441,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1440",
+        "shared_name" : "AKT",
+        "name" : "AKT",
+        "degree_layout" : 3,
+        "SUID" : 1440,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1439",
+        "shared_name" : "p21",
+        "name" : "p21",
+        "degree_layout" : 4,
+        "SUID" : 1439,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1438",
+        "shared_name" : "PIP3",
+        "name" : "PIP3",
+        "degree_layout" : 2,
+        "SUID" : 1438,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1437",
+        "shared_name" : "PIP2",
+        "name" : "PIP2",
+        "degree_layout" : 1,
+        "SUID" : 1437,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1436",
+        "shared_name" : "FGFR3 Fusion Dimer",
+        "name" : "FGFR3 Fusion Dimer",
+        "degree_layout" : 2,
+        "SUID" : 1436,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1435",
+        "shared_name" : "FGFR3",
+        "name" : "FGFR3",
+        "degree_layout" : 1,
+        "SUID" : 1435,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1434",
+        "shared_name" : "cell proliferation",
+        "name" : "cell proliferation",
+        "degree_layout" : 2,
+        "SUID" : 1434,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1433",
+        "shared_name" : "cellular transformation",
+        "name" : "cellular transformation",
+        "degree_layout" : 4,
+        "SUID" : 1433,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1432",
+        "shared_name" : "G1/S transition",
+        "name" : "G1/S transition",
+        "degree_layout" : 2,
+        "SUID" : 1432,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1431",
+        "shared_name" : "CDK4",
+        "name" : "CDK4",
+        "degree_layout" : 1,
+        "SUID" : 1431,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1430",
+        "shared_name" : "CYCD1",
+        "name" : "CYCD1",
+        "degree_layout" : 2,
+        "SUID" : 1430,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1429",
+        "shared_name" : "p53",
+        "name" : "p53",
+        "degree_layout" : 2,
+        "SUID" : 1429,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1428",
+        "shared_name" : "DNA Synthesis",
+        "name" : "DNA Synthesis",
+        "degree_layout" : 4,
+        "SUID" : 1428,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1427",
+        "shared_name" : "JNK Phosphatase",
+        "name" : "JNK Phosphatase",
+        "degree_layout" : 2,
+        "SUID" : 1427,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1426",
+        "shared_name" : "JNK",
+        "name" : "JNK",
+        "degree_layout" : 5,
+        "SUID" : 1426,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1425",
+        "shared_name" : "AP-1",
+        "name" : "AP-1",
+        "degree_layout" : 7,
+        "SUID" : 1425,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1424",
+        "shared_name" : "c-fos",
+        "name" : "c-fos",
+        "degree_layout" : 2,
+        "SUID" : 1424,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1423",
+        "shared_name" : "c-jun",
+        "name" : "c-jun",
+        "degree_layout" : 3,
+        "SUID" : 1423,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1422",
+        "shared_name" : "PKC",
+        "name" : "PKC",
+        "degree_layout" : 4,
+        "SUID" : 1422,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1421",
+        "shared_name" : "gene silencing",
+        "name" : "gene silencing",
+        "degree_layout" : 2,
+        "SUID" : 1421,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1420",
+        "shared_name" : "spontaneous mutation",
+        "name" : "spontaneous mutation",
+        "degree_layout" : 3,
+        "SUID" : 1420,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1419",
+        "shared_name" : "DNMT3A",
+        "name" : "DNMT3A",
+        "degree_layout" : 2,
+        "SUID" : 1419,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1418",
+        "shared_name" : "DNA Methylation",
+        "name" : "DNA Methylation",
+        "degree_layout" : 5,
+        "SUID" : 1418,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1417",
+        "shared_name" : "genetic stability",
+        "name" : "genetic stability",
+        "degree_layout" : 2,
+        "SUID" : 1417,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1416",
+        "shared_name" : "DNMT1",
+        "name" : "DNMT1",
+        "degree_layout" : 2,
+        "SUID" : 1416,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1415",
+        "shared_name" : "s-adenosylmethionine",
+        "name" : "s-adenosylmethionine",
+        "degree_layout" : 3,
+        "SUID" : 1415,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1414",
+        "shared_name" : "AS3MT",
+        "name" : "AS3MT",
+        "degree_layout" : 4,
+        "SUID" : 1414,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1412",
+        "shared_name" : "s-adenosylhomocysteine",
+        "name" : "s-adenosylhomocysteine",
+        "degree_layout" : 1,
+        "SUID" : 1412,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1411",
+        "shared_name" : "TXN*",
+        "name" : "TXN*",
+        "degree_layout" : 3,
+        "SUID" : 1411,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1410",
+        "shared_name" : "TRXR",
+        "name" : "TRXR",
+        "degree_layout" : 2,
+        "SUID" : 1410,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1409",
+        "shared_name" : "TXN",
+        "name" : "TXN",
+        "degree_layout" : 4,
+        "SUID" : 1409,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1408",
+        "shared_name" : "PRDX1,2,5",
+        "name" : "PRDX1,2,5",
+        "degree_layout" : 5,
+        "SUID" : 1408,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1407",
+        "shared_name" : "H2O",
+        "name" : "H2O",
+        "degree_layout" : 2,
+        "SUID" : 1407,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1406",
+        "shared_name" : "peroxides",
+        "name" : "peroxides",
+        "degree_layout" : 5,
+        "SUID" : 1406,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1405",
+        "shared_name" : "oxidative DNA damage",
+        "name" : "oxidative DNA damage",
+        "degree_layout" : 4,
+        "SUID" : 1405,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1404",
+        "shared_name" : "lipid peroxidation",
+        "name" : "lipid peroxidation",
+        "degree_layout" : 2,
+        "SUID" : 1404,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1403",
+        "shared_name" : "GPX1",
+        "name" : "GPX1",
+        "degree_layout" : 6,
+        "SUID" : 1403,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1402",
+        "shared_name" : "alcohols",
+        "name" : "alcohols",
+        "degree_layout" : 1,
+        "SUID" : 1402,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1401",
+        "shared_name" : "GST",
+        "name" : "GST",
+        "degree_layout" : 4,
+        "SUID" : 1401,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1400",
+        "shared_name" : "GSR",
+        "name" : "GSR",
+        "degree_layout" : 2,
+        "SUID" : 1400,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1399",
+        "shared_name" : "GSH",
+        "name" : "GSH",
+        "degree_layout" : 4,
+        "SUID" : 1399,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1398",
+        "shared_name" : "Electrophiles and Oxidants",
+        "name" : "Electrophiles and Oxidants",
+        "degree_layout" : 6,
+        "SUID" : 1398,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1397",
+        "shared_name" : "Keap1",
+        "name" : "Keap1",
+        "degree_layout" : 2,
+        "SUID" : 1397,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1396",
+        "shared_name" : "Reduced Substrate",
+        "name" : "Reduced Substrate",
+        "degree_layout" : 1,
+        "SUID" : 1396,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1395",
+        "shared_name" : "GSS",
+        "name" : "GSS",
+        "degree_layout" : 2,
+        "SUID" : 1395,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1394",
+        "shared_name" : "GCLM",
+        "name" : "GCLM",
+        "degree_layout" : 3,
+        "SUID" : 1394,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1393",
+        "shared_name" : "L-gamma-glutamyl-L-cysteine",
+        "name" : "L-gamma-glutamyl-L-cysteine",
+        "degree_layout" : 2,
+        "SUID" : 1393,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1392",
+        "shared_name" : "L-Glutamate",
+        "name" : "L-Glutamate",
+        "degree_layout" : 1,
+        "SUID" : 1392,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1391",
+        "shared_name" : "Nrf2",
+        "name" : "Nrf2",
+        "degree_layout" : 7,
+        "SUID" : 1391,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1390",
+        "shared_name" : "G6PD",
+        "name" : "G6PD",
+        "degree_layout" : 2,
+        "SUID" : 1390,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1389",
+        "shared_name" : "Pgd",
+        "name" : "Pgd",
+        "degree_layout" : 2,
+        "SUID" : 1389,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1388",
+        "shared_name" : "Brca1",
+        "name" : "Brca1",
+        "degree_layout" : 1,
+        "SUID" : 1388,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1387",
+        "shared_name" : "Palb2",
+        "name" : "Palb2",
+        "degree_layout" : 1,
+        "SUID" : 1387,
         "selected" : false
       }
     } ],
     "edges" : [ {
       "data" : {
-        "id" : "763",
-        "source" : "762",
-        "target" : "750",
-        "shared_name" : "Palb2 (activates) Nrf2",
-        "name" : "Palb2 (activates) Nrf2",
+        "id" : "1834",
+        "source" : "1830",
+        "target" : "1433",
+        "shared_name" : "translesion synthesis (interacts with) cellular transformation",
+        "shared_interaction" : "interacts with",
+        "name" : "translesion synthesis (interacts with) cellular transformation",
         "interaction" : "activates",
-        "SUID" : 763,
-        "shared_interaction" : "activates",
+        "SUID" : 1834,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "761",
-        "source" : "760",
-        "target" : "750",
-        "shared_name" : "Brca1 (activates) Nrf2",
-        "name" : "Brca1 (activates) Nrf2",
+        "id" : "1832",
+        "source" : "1826",
+        "target" : "1830",
+        "shared_name" : "PCNA (interacts with) translesion synthesis",
+        "shared_interaction" : "interacts with",
+        "name" : "PCNA (interacts with) translesion synthesis",
         "interaction" : "activates",
-        "SUID" : 761,
-        "shared_interaction" : "activates",
+        "SUID" : 1832,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "758",
-        "source" : "753",
-        "target" : "638",
-        "shared_name" : "Pgd (activates) DNA Synthesis",
-        "name" : "Pgd (activates) DNA Synthesis",
-        "interaction" : "activates",
-        "SUID" : 758,
-        "shared_interaction" : "activates",
+        "id" : "1824",
+        "source" : "1818",
+        "target" : "1439",
+        "shared_name" : "c-myc (interacts with) p21",
+        "pubmed_ids" : [ "23071356", "14519204" ],
+        "shared_interaction" : "interacts with",
+        "name" : "c-myc (interacts with) p21",
+        "interaction" : "decreases",
+        "SUID" : 1824,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "757",
-        "source" : "751",
-        "target" : "638",
-        "shared_name" : "G6PD (activates) DNA Synthesis",
-        "name" : "G6PD (activates) DNA Synthesis",
-        "interaction" : "activates",
-        "SUID" : 757,
-        "shared_interaction" : "activates",
+        "id" : "1822",
+        "source" : "1818",
+        "target" : "1431",
+        "shared_name" : "c-myc (interacts with) CDK4",
+        "pubmed_ids" : [ "10688915" ],
+        "shared_interaction" : "interacts with",
+        "name" : "c-myc (interacts with) CDK4",
+        "interaction" : "activates expression",
+        "SUID" : 1822,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "756",
-        "source" : "750",
-        "target" : "743",
-        "shared_name" : "Nrf2 (activates) GCLM",
-        "name" : "Nrf2 (activates) GCLM",
+        "id" : "1820",
+        "source" : "1814",
+        "target" : "1818",
+        "shared_name" : "IRES (interacts with) c-myc",
+        "pubmed_ids" : [ "25961916" ],
+        "shared_interaction" : "interacts with",
+        "name" : "IRES (interacts with) c-myc",
         "interaction" : "activates",
-        "SUID" : 756,
-        "shared_interaction" : "activates",
+        "SUID" : 1820,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "755",
-        "source" : "750",
-        "target" : "708",
-        "shared_name" : "Nrf2 (activates) GPX1",
-        "name" : "Nrf2 (activates) GPX1",
-        "interaction" : "activates",
-        "SUID" : 755,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "754",
-        "source" : "750",
-        "target" : "753",
-        "shared_name" : "Nrf2 (activates) Pgd",
-        "name" : "Nrf2 (activates) Pgd",
-        "interaction" : "activates",
-        "SUID" : 754,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "752",
-        "source" : "750",
-        "target" : "751",
-        "shared_name" : "Nrf2 (activates) G6PD",
-        "name" : "Nrf2 (activates) G6PD",
-        "interaction" : "activates",
-        "SUID" : 752,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "748",
-        "source" : "747",
-        "target" : "743",
-        "shared_name" : "L-Glutamate (activates) GCLM",
-        "name" : "L-Glutamate (activates) GCLM",
-        "interaction" : "activates",
-        "SUID" : 748,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "746",
-        "source" : "744",
-        "target" : "741",
-        "shared_name" : "L-gamma-glutamyl-L-cysteine (activates) GSS",
-        "name" : "L-gamma-glutamyl-L-cysteine (activates) GSS",
-        "interaction" : "activates",
-        "SUID" : 746,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "745",
-        "source" : "743",
-        "target" : "744",
-        "shared_name" : "GCLM (activates) L-gamma-glutamyl-L-cysteine",
-        "name" : "GCLM (activates) L-gamma-glutamyl-L-cysteine",
-        "interaction" : "activates",
-        "SUID" : 745,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "742",
-        "source" : "741",
-        "target" : "724",
-        "shared_name" : "GSS (activates) GSH",
-        "name" : "GSS (activates) GSH",
-        "interaction" : "activates",
-        "SUID" : 742,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "759",
-        "source" : "733",
-        "target" : "750",
-        "shared_name" : "Keap1 (inhibits) Nrf2",
-        "name" : "Keap1 (inhibits) Nrf2",
+        "id" : "1808",
+        "source" : "1804",
+        "target" : "1798",
+        "shared_name" : "HRI (interacts with) eIF2a",
+        "shared_interaction" : "interacts with",
+        "name" : "HRI (interacts with) eIF2a",
         "interaction" : "inhibits",
-        "SUID" : 759,
-        "shared_interaction" : "inhibits",
+        "SUID" : 1808,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "734",
-        "source" : "727",
-        "target" : "733",
-        "shared_name" : "Electrophilic Substrate (activates) Keap1",
-        "name" : "Electrophilic Substrate (activates) Keap1",
+        "id" : "1816",
+        "source" : "1798",
+        "target" : "1814",
+        "shared_name" : "eIF2a (interacts with) Node 7",
+        "shared_interaction" : "interacts with",
+        "name" : "eIF2a (interacts with) Node 7",
         "interaction" : "activates",
-        "SUID" : 734,
-        "shared_interaction" : "activates",
+        "SUID" : 1816,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "732",
-        "source" : "727",
-        "target" : "718",
-        "shared_name" : "Electrophilic Substrate (activates) GST",
-        "name" : "Electrophilic Substrate (activates) GST",
+        "id" : "1812",
+        "source" : "1798",
+        "target" : "1810",
+        "shared_name" : "eIF2a (interacts with) protein translation",
+        "shared_interaction" : "interacts with",
+        "name" : "eIF2a (interacts with) protein translation",
         "interaction" : "activates",
-        "SUID" : 732,
-        "shared_interaction" : "activates",
+        "SUID" : 1812,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "731",
-        "source" : "727",
-        "target" : "703",
-        "shared_name" : "Electrophilic Substrate (activates) oxidative DNA damage",
-        "name" : "Electrophilic Substrate (activates) oxidative DNA damage",
-        "interaction" : "activates",
-        "SUID" : 731,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "730",
-        "source" : "727",
-        "target" : "705",
-        "shared_name" : "Electrophilic Substrate (activates) lipid peroxidation",
-        "name" : "Electrophilic Substrate (activates) lipid peroxidation",
-        "interaction" : "activates",
-        "SUID" : 730,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "729",
-        "source" : "727",
-        "target" : "694",
-        "shared_name" : "Electrophilic Substrate (activates) PRDX1,2,5",
-        "name" : "Electrophilic Substrate (activates) PRDX1,2,5",
-        "interaction" : "activates",
-        "SUID" : 729,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "728",
-        "source" : "727",
-        "target" : "693",
-        "shared_name" : "Electrophilic Substrate (activates) TXN",
-        "name" : "Electrophilic Substrate (activates) TXN",
-        "interaction" : "activates",
-        "SUID" : 728,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "740",
-        "source" : "724",
-        "target" : "718",
-        "shared_name" : "GSH (activates) GST",
-        "name" : "GSH (activates) GST",
-        "interaction" : "activates",
-        "SUID" : 740,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "739",
-        "source" : "724",
-        "target" : "708",
-        "shared_name" : "GSH (activates) GPX1",
-        "name" : "GSH (activates) GPX1",
-        "interaction" : "activates",
-        "SUID" : 739,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "725",
-        "source" : "720",
-        "target" : "724",
-        "shared_name" : "GSR (activates) GSH",
-        "name" : "GSR (activates) GSH",
-        "interaction" : "activates",
-        "SUID" : 725,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "737",
-        "source" : "718",
-        "target" : "736",
-        "shared_name" : "GST (activates) Reduced Substrate",
-        "name" : "GST (activates) Reduced Substrate",
-        "interaction" : "activates",
-        "SUID" : 737,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "735",
-        "source" : "718",
-        "target" : "604",
-        "shared_name" : "GST (activates) GSSG",
-        "name" : "GST (activates) GSSG",
-        "interaction" : "activates",
-        "SUID" : 735,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "713",
-        "source" : "708",
-        "target" : "604",
-        "shared_name" : "GPX1 (activates) GSSG",
-        "name" : "GPX1 (activates) GSSG",
-        "interaction" : "activates",
-        "SUID" : 713,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "712",
-        "source" : "708",
-        "target" : "711",
-        "shared_name" : "GPX1 (activates) alcohols",
-        "name" : "GPX1 (activates) alcohols",
-        "interaction" : "activates",
-        "SUID" : 712,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "710",
-        "source" : "708",
-        "target" : "698",
-        "shared_name" : "GPX1 (activates) H2O",
-        "name" : "GPX1 (activates) H2O",
-        "interaction" : "activates",
-        "SUID" : 710,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "723",
-        "source" : "703",
-        "target" : "668",
-        "shared_name" : "oxidative DNA damage (inhibits) genetic stability",
-        "name" : "oxidative DNA damage (inhibits) genetic stability",
+        "id" : "1800",
+        "source" : "1794",
+        "target" : "1798",
+        "shared_name" : "PERK (interacts with) eIF2a",
+        "pubmed_ids" : [ "26636041" ],
+        "shared_interaction" : "interacts with",
+        "name" : "PERK (interacts with) eIF2a",
         "interaction" : "inhibits",
-        "SUID" : 723,
-        "shared_interaction" : "inhibits",
+        "SUID" : 1800,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "722",
-        "source" : "703",
-        "target" : "661",
-        "shared_name" : "oxidative DNA damage (activates) spontaneous mutation",
-        "name" : "oxidative DNA damage (activates) spontaneous mutation",
+        "id" : "1796",
+        "source" : "1790",
+        "target" : "1794",
+        "shared_name" : "endoplasmic reticulum stress (interacts with) PERK",
+        "pubmed_ids" : [ "26636041" ],
+        "shared_interaction" : "interacts with",
+        "name" : "endoplasmic reticulum stress (interacts with) PERK",
         "interaction" : "activates",
-        "SUID" : 722,
-        "shared_interaction" : "activates",
+        "SUID" : 1796,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "709",
-        "source" : "701",
-        "target" : "708",
-        "shared_name" : "peroxides (activates) GPX1",
-        "name" : "peroxides (activates) GPX1",
+        "id" : "1792",
+        "source" : "1788",
+        "target" : "1790",
+        "shared_name" : "protein misfolding (interacts with) endoplasmic reticulum stress",
+        "shared_interaction" : "interacts with",
+        "name" : "protein misfolding (interacts with) endoplasmic reticulum stress",
         "interaction" : "activates",
-        "SUID" : 709,
-        "shared_interaction" : "activates",
+        "SUID" : 1792,
         "selected" : false
       }
     }, {
       "data" : {
-        "id" : "707",
-        "source" : "701",
-        "target" : "694",
-        "shared_name" : "peroxides (activates) PRDX1,2,5",
-        "name" : "peroxides (activates) PRDX1,2,5",
-        "interaction" : "activates",
-        "SUID" : 707,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "706",
-        "source" : "701",
-        "target" : "705",
-        "shared_name" : "peroxides (activates) lipid peroxidation",
-        "name" : "peroxides (activates) lipid peroxidation",
-        "interaction" : "activates",
-        "SUID" : 706,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "704",
-        "source" : "701",
-        "target" : "703",
-        "shared_name" : "peroxides (activates) oxidative DNA damage",
-        "name" : "peroxides (activates) oxidative DNA damage",
-        "interaction" : "activates",
-        "SUID" : 704,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "702",
-        "source" : "701",
-        "target" : "641",
-        "shared_name" : "peroxides (activates) JNK",
-        "name" : "peroxides (activates) JNK",
-        "interaction" : "activates",
-        "SUID" : 702,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "699",
-        "source" : "694",
-        "target" : "698",
-        "shared_name" : "PRDX1,2,5 (activates) H2O",
-        "name" : "PRDX1,2,5 (activates) H2O",
-        "interaction" : "activates",
-        "SUID" : 699,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "697",
-        "source" : "694",
-        "target" : "690",
-        "shared_name" : "PRDX1,2,5 (activates) TXN*",
-        "name" : "PRDX1,2,5 (activates) TXN*",
-        "interaction" : "activates",
-        "SUID" : 697,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "696",
-        "source" : "693",
-        "target" : "690",
-        "shared_name" : "TXN (activates) TXN*",
-        "name" : "TXN (activates) TXN*",
-        "interaction" : "activates",
-        "SUID" : 696,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "695",
-        "source" : "693",
-        "target" : "694",
-        "shared_name" : "TXN (activates) PRDX1,2,5",
-        "name" : "TXN (activates) PRDX1,2,5",
-        "interaction" : "activates",
-        "SUID" : 695,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "700",
-        "source" : "691",
-        "target" : "693",
-        "shared_name" : "TRXR (activates) TXN",
-        "name" : "TRXR (activates) TXN",
-        "interaction" : "activates",
-        "SUID" : 700,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "692",
-        "source" : "690",
-        "target" : "691",
-        "shared_name" : "TXN* (activates) TRXR",
-        "name" : "TXN* (activates) TRXR",
-        "interaction" : "activates",
-        "SUID" : 692,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "680",
-        "source" : "678",
-        "target" : "655",
-        "shared_name" : "TMA (activates) PKC",
-        "name" : "TMA (activates) PKC",
-        "interaction" : "activates",
-        "SUID" : 680,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "685",
-        "source" : "675",
-        "target" : "684",
-        "shared_name" : "AS3MT (activates) s-adenosylhomocysteine",
-        "name" : "AS3MT (activates) s-adenosylhomocysteine",
-        "interaction" : "activates",
-        "SUID" : 685,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "681",
-        "source" : "675",
-        "target" : "600",
-        "shared_name" : "AS3MT (activates) DMA",
-        "name" : "AS3MT (activates) DMA",
-        "interaction" : "activates",
-        "SUID" : 681,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "676",
-        "source" : "672",
-        "target" : "675",
-        "shared_name" : "s-adenosylmethionine (activates) AS3MT",
-        "name" : "s-adenosylmethionine (activates) AS3MT",
-        "interaction" : "activates",
-        "SUID" : 676,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "674",
-        "source" : "672",
-        "target" : "670",
-        "shared_name" : "s-adenosylmethionine (activates) DNMT1",
-        "name" : "s-adenosylmethionine (activates) DNMT1",
-        "interaction" : "activates",
-        "SUID" : 674,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "673",
-        "source" : "672",
-        "target" : "663",
-        "shared_name" : "s-adenosylmethionine (activates) DNMT3A",
-        "name" : "s-adenosylmethionine (activates) DNMT3A",
-        "interaction" : "activates",
-        "SUID" : 673,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "671",
-        "source" : "670",
-        "target" : "664",
-        "shared_name" : "DNMT1 (activates) DNA Methylation",
-        "name" : "DNMT1 (activates) DNA Methylation",
-        "interaction" : "activates",
-        "SUID" : 671,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "669",
-        "source" : "664",
-        "target" : "668",
-        "shared_name" : "DNA Methylation (activates) genetic stability",
-        "name" : "DNA Methylation (activates) genetic stability",
-        "interaction" : "activates",
-        "SUID" : 669,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "667",
-        "source" : "664",
-        "target" : "661",
-        "shared_name" : "DNA Methylation (activates) spontaneous mutation",
-        "name" : "DNA Methylation (activates) spontaneous mutation",
-        "interaction" : "activates",
-        "SUID" : 667,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "666",
-        "source" : "664",
-        "target" : "659",
-        "shared_name" : "DNA Methylation (activates) gene silencing",
-        "name" : "DNA Methylation (activates) gene silencing",
-        "interaction" : "activates",
-        "SUID" : 666,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "665",
-        "source" : "663",
-        "target" : "664",
-        "shared_name" : "DNMT3A (activates) DNA Methylation",
-        "name" : "DNMT3A (activates) DNA Methylation",
-        "interaction" : "activates",
-        "SUID" : 665,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "662",
-        "source" : "661",
-        "target" : "627",
-        "shared_name" : "spontaneous mutation (activates) cellular transformation",
-        "name" : "spontaneous mutation (activates) cellular transformation",
-        "interaction" : "activates",
-        "SUID" : 662,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "660",
-        "source" : "659",
-        "target" : "627",
-        "shared_name" : "gene silencing (activates) cellular transformation",
-        "name" : "gene silencing (activates) cellular transformation",
-        "interaction" : "activates",
-        "SUID" : 660,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "656",
-        "source" : "655",
-        "target" : "641",
-        "shared_name" : "PKC (activates) JNK",
-        "name" : "PKC (activates) JNK",
-        "interaction" : "activates",
-        "SUID" : 656,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "651",
-        "source" : "649",
-        "target" : "643",
-        "shared_name" : "c-jun (activates) AP-1",
-        "name" : "c-jun (activates) AP-1",
-        "interaction" : "activates",
-        "SUID" : 651,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "652",
-        "source" : "644",
-        "target" : "643",
-        "shared_name" : "c-fos (activates) AP-1",
-        "name" : "c-fos (activates) AP-1",
-        "interaction" : "activates",
-        "SUID" : 652,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "650",
-        "source" : "643",
-        "target" : "649",
-        "shared_name" : "AP-1 (activates) c-jun",
-        "name" : "AP-1 (activates) c-jun",
-        "interaction" : "activates",
-        "SUID" : 650,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "648",
-        "source" : "643",
-        "target" : "615",
-        "shared_name" : "AP-1 (inhibits) p21",
-        "name" : "AP-1 (inhibits) p21",
-        "interaction" : "inhibits",
-        "SUID" : 648,
-        "shared_interaction" : "inhibits",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "647",
-        "source" : "643",
-        "target" : "633",
-        "shared_name" : "AP-1 (activates) CYCD1",
-        "name" : "AP-1 (activates) CYCD1",
-        "interaction" : "activates",
-        "SUID" : 647,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "646",
-        "source" : "643",
-        "target" : "636",
-        "shared_name" : "AP-1 (inhibits) p53",
-        "name" : "AP-1 (inhibits) p53",
-        "interaction" : "inhibits",
-        "SUID" : 646,
-        "shared_interaction" : "inhibits",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "645",
-        "source" : "643",
-        "target" : "644",
-        "shared_name" : "AP-1 (inhibits) c-fos",
-        "name" : "AP-1 (inhibits) c-fos",
-        "interaction" : "inhibits",
-        "SUID" : 645,
-        "shared_interaction" : "inhibits",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "654",
-        "source" : "641",
-        "target" : "649",
-        "shared_name" : "JNK (activates) c-jun",
-        "name" : "JNK (activates) c-jun",
-        "interaction" : "activates",
-        "SUID" : 654,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "653",
-        "source" : "641",
-        "target" : "584",
-        "shared_name" : "JNK (activates) AMPK",
-        "name" : "JNK (activates) AMPK",
-        "interaction" : "activates",
-        "SUID" : 653,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "642",
-        "source" : "640",
-        "target" : "641",
-        "shared_name" : "JNK Phosphatase (inhibits) JNK",
-        "name" : "JNK Phosphatase (inhibits) JNK",
-        "interaction" : "inhibits",
-        "SUID" : 642,
-        "shared_interaction" : "inhibits",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "749",
-        "source" : "638",
-        "target" : "626",
-        "shared_name" : "DNA Synthesis (activates) cell proliferation",
-        "name" : "DNA Synthesis (activates) cell proliferation",
-        "interaction" : "activates",
-        "SUID" : 749,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "637",
-        "source" : "636",
-        "target" : "615",
-        "shared_name" : "p53 (activates) p21",
-        "name" : "p53 (activates) p21",
-        "interaction" : "activates",
-        "SUID" : 637,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "634",
-        "source" : "633",
-        "target" : "610",
-        "shared_name" : "CYCD1 (activates) Cyclin-CDK Complex",
-        "name" : "CYCD1 (activates) Cyclin-CDK Complex",
-        "interaction" : "activates",
-        "SUID" : 634,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "632",
-        "source" : "631",
-        "target" : "610",
-        "shared_name" : "CDK4 (activates) Cyclin-CDK Complex",
-        "name" : "CDK4 (activates) Cyclin-CDK Complex",
-        "interaction" : "activates",
-        "SUID" : 632,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "639",
-        "source" : "629",
-        "target" : "638",
-        "shared_name" : "G1/S transition (activates) DNA Synthesis",
-        "name" : "G1/S transition (activates) DNA Synthesis",
-        "interaction" : "activates",
-        "SUID" : 639,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "658",
-        "source" : "627",
-        "target" : "594",
-        "shared_name" : "cellular transformation (activates) tumorigenesis",
-        "name" : "cellular transformation (activates) tumorigenesis",
-        "interaction" : "activates",
-        "SUID" : 658,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "628",
-        "source" : "626",
-        "target" : "627",
-        "shared_name" : "cell proliferation (activates) cellular transformation",
-        "name" : "cell proliferation (activates) cellular transformation",
-        "interaction" : "activates",
-        "SUID" : 628,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "625",
-        "source" : "624",
-        "target" : "622",
-        "shared_name" : "FGFR3 (activates) FGFR3 Fusion Dimer",
-        "name" : "FGFR3 (activates) FGFR3 Fusion Dimer",
-        "interaction" : "activates",
-        "SUID" : 625,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "623",
-        "source" : "622",
-        "target" : "564",
-        "shared_name" : "FGFR3 Fusion Dimer (activates) PI3K",
-        "name" : "FGFR3 Fusion Dimer (activates) PI3K",
-        "interaction" : "activates",
-        "SUID" : 623,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "620",
-        "source" : "619",
-        "target" : "564",
-        "shared_name" : "PIP2 (activates) PI3K",
-        "name" : "PIP2 (activates) PI3K",
-        "interaction" : "activates",
-        "SUID" : 620,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "618",
-        "source" : "617",
-        "target" : "613",
-        "shared_name" : "PIP3 (activates) AKT",
-        "name" : "PIP3 (activates) AKT",
-        "interaction" : "activates",
-        "SUID" : 618,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "635",
-        "source" : "615",
-        "target" : "610",
-        "shared_name" : "p21 (inhibits) Cyclin-CDK Complex",
-        "name" : "p21 (inhibits) Cyclin-CDK Complex",
-        "interaction" : "inhibits",
-        "SUID" : 635,
-        "shared_interaction" : "inhibits",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "616",
-        "source" : "613",
-        "target" : "615",
-        "shared_name" : "AKT (inhibits) p21",
-        "name" : "AKT (inhibits) p21",
-        "interaction" : "inhibits",
-        "SUID" : 616,
-        "shared_interaction" : "inhibits",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "614",
-        "source" : "613",
-        "target" : "580",
-        "shared_name" : "AKT (activates) VEGF",
-        "name" : "AKT (activates) VEGF",
-        "interaction" : "activates",
-        "SUID" : 614,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "630",
-        "source" : "611",
-        "target" : "629",
-        "shared_name" : "pRb (inhibits) G1/S transition",
-        "name" : "pRb (inhibits) G1/S transition",
-        "interaction" : "inhibits",
-        "SUID" : 630,
-        "shared_interaction" : "inhibits",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "612",
-        "source" : "610",
-        "target" : "611",
-        "shared_name" : "Cyclin-CDK Complex (inhibits) pRb",
-        "name" : "Cyclin-CDK Complex (inhibits) pRb",
-        "interaction" : "inhibits",
-        "SUID" : 612,
-        "shared_interaction" : "inhibits",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "609",
-        "source" : "607",
-        "target" : "564",
-        "shared_name" : "EGFR Fusion Dimer (activates) PI3K",
-        "name" : "EGFR Fusion Dimer (activates) PI3K",
-        "interaction" : "activates",
-        "SUID" : 609,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "608",
-        "source" : "606",
-        "target" : "607",
-        "shared_name" : "EGFR (activates) EGFR Fusion Dimer",
-        "name" : "EGFR (activates) EGFR Fusion Dimer",
-        "interaction" : "activates",
-        "SUID" : 608,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "726",
-        "source" : "604",
-        "target" : "720",
-        "shared_name" : "GSSG (activates) GSR",
-        "name" : "GSSG (activates) GSR",
-        "interaction" : "activates",
-        "SUID" : 726,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "679",
-        "source" : "600",
-        "target" : "678",
-        "shared_name" : "DMA (activates) TMA",
-        "name" : "DMA (activates) TMA",
-        "interaction" : "activates",
-        "SUID" : 679,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "677",
-        "source" : "600",
-        "target" : "655",
-        "shared_name" : "DMA (activates) PKC",
-        "name" : "DMA (activates) PKC",
-        "interaction" : "activates",
-        "SUID" : 677,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "598",
-        "source" : "597",
-        "target" : "564",
-        "shared_name" : "ERBB2 (activates) PI3K",
-        "name" : "ERBB2 (activates) PI3K",
-        "interaction" : "activates",
-        "SUID" : 598,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "657",
-        "source" : "594",
-        "target" : "572",
-        "shared_name" : "tumorigenesis (activates) carcinogenesis",
-        "name" : "tumorigenesis (activates) carcinogenesis",
-        "interaction" : "activates",
-        "SUID" : 657,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "593",
-        "source" : "589",
-        "target" : "580",
-        "shared_name" : "HIF-1a (activates) VEGF",
-        "name" : "HIF-1a (activates) VEGF",
-        "interaction" : "activates",
-        "SUID" : 593,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "592",
-        "source" : "589",
-        "target" : "579",
-        "shared_name" : "HIF-1a (activates) p-HIF-1a",
-        "name" : "HIF-1a (activates) p-HIF-1a",
-        "interaction" : "activates",
-        "SUID" : 592,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "590",
-        "source" : "587",
-        "target" : "589",
-        "shared_name" : "PHD (inhibits) HIF-1a",
-        "name" : "PHD (inhibits) HIF-1a",
-        "interaction" : "inhibits",
-        "SUID" : 590,
-        "shared_interaction" : "inhibits",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "588",
-        "source" : "586",
-        "target" : "587",
-        "shared_name" : "O2 (activates) PHD",
-        "name" : "O2 (activates) PHD",
-        "interaction" : "activates",
-        "SUID" : 588,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "585",
-        "source" : "584",
-        "target" : "582",
-        "shared_name" : "AMPK (inhibits) pVHL",
-        "name" : "AMPK (inhibits) pVHL",
-        "interaction" : "inhibits",
-        "SUID" : 585,
-        "shared_interaction" : "inhibits",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "591",
-        "source" : "582",
-        "target" : "589",
-        "shared_name" : "pVHL (inhibits) HIF-1a",
-        "name" : "pVHL (inhibits) HIF-1a",
-        "interaction" : "inhibits",
-        "SUID" : 591,
-        "shared_interaction" : "inhibits",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "596",
-        "source" : "580",
-        "target" : "577",
-        "shared_name" : "VEGF (activates) angiogenesis",
-        "name" : "VEGF (activates) angiogenesis",
-        "interaction" : "activates",
-        "SUID" : 596,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "583",
-        "source" : "579",
-        "target" : "582",
-        "shared_name" : "p-HIF-1a (activates) pVHL",
-        "name" : "p-HIF-1a (activates) pVHL",
-        "interaction" : "activates",
-        "SUID" : 583,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "581",
-        "source" : "579",
-        "target" : "580",
-        "shared_name" : "p-HIF-1a (activates) VEGF",
-        "name" : "p-HIF-1a (activates) VEGF",
-        "interaction" : "activates",
-        "SUID" : 581,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "595",
-        "source" : "577",
-        "target" : "594",
-        "shared_name" : "angiogenesis (activates) tumorigenesis",
-        "name" : "angiogenesis (activates) tumorigenesis",
-        "interaction" : "activates",
-        "SUID" : 595,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "578",
-        "source" : "574",
-        "target" : "577",
-        "shared_name" : "cellular matrix stabilization (activates) angiogenesis",
-        "name" : "cellular matrix stabilization (activates) angiogenesis",
-        "interaction" : "activates",
-        "SUID" : 578,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "576",
-        "source" : "574",
-        "target" : "571",
-        "shared_name" : "cellular matrix stabilization (inhibits) invasion",
-        "name" : "cellular matrix stabilization (inhibits) invasion",
-        "interaction" : "inhibits",
-        "SUID" : 576,
-        "shared_interaction" : "inhibits",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "573",
-        "source" : "571",
-        "target" : "572",
-        "shared_name" : "invasion (activates) carcinogenesis",
-        "name" : "invasion (activates) carcinogenesis",
-        "interaction" : "activates",
-        "SUID" : 573,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "575",
-        "source" : "569",
-        "target" : "574",
-        "shared_name" : "plasminogen activation (inhibits) cellular matrix stabilization",
-        "name" : "plasminogen activation (inhibits) cellular matrix stabilization",
-        "interaction" : "inhibits",
-        "SUID" : 575,
-        "shared_interaction" : "inhibits",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "570",
-        "source" : "568",
-        "target" : "569",
-        "shared_name" : "PAI-1 (inhibits) plasminogen activation",
-        "name" : "PAI-1 (inhibits) plasminogen activation",
-        "interaction" : "inhibits",
-        "SUID" : 570,
-        "shared_interaction" : "inhibits",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "567",
-        "source" : "566",
-        "target" : "564",
-        "shared_name" : "GPCR (activates) PI3K",
-        "name" : "GPCR (activates) PI3K",
-        "interaction" : "activates",
-        "SUID" : 567,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "621",
-        "source" : "564",
-        "target" : "617",
-        "shared_name" : "PI3K (activates) PIP3",
-        "name" : "PI3K (activates) PIP3",
-        "interaction" : "activates",
-        "SUID" : 621,
-        "shared_interaction" : "activates",
-        "selected" : false
-      }
-    }, {
-      "data" : {
-        "id" : "565",
-        "source" : "563",
-        "target" : "564",
+        "id" : "1569",
+        "source" : "1464",
+        "target" : "1463",
         "shared_name" : "RTK (activates) PI3K",
+        "shared_interaction" : "activates",
         "name" : "RTK (activates) PI3K",
         "interaction" : "activates",
-        "SUID" : 565,
+        "SUID" : 1569,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1568",
+        "source" : "1463",
+        "target" : "1438",
+        "shared_name" : "PI3K (activates) PIP3",
         "shared_interaction" : "activates",
+        "name" : "PI3K (activates) PIP3",
+        "interaction" : "activates",
+        "SUID" : 1568,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1567",
+        "source" : "1462",
+        "target" : "1463",
+        "shared_name" : "GPCR (activates) PI3K",
+        "shared_interaction" : "activates",
+        "name" : "GPCR (activates) PI3K",
+        "interaction" : "activates",
+        "SUID" : 1567,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1566",
+        "source" : "1461",
+        "target" : "1460",
+        "shared_name" : "PAI-1 (inhibits) plasminogen activation",
+        "shared_interaction" : "inhibits",
+        "name" : "PAI-1 (inhibits) plasminogen activation",
+        "interaction" : "inhibits",
+        "SUID" : 1566,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1565",
+        "source" : "1460",
+        "target" : "1457",
+        "shared_name" : "plasminogen activation (inhibits) cellular matrix stabilization",
+        "shared_interaction" : "inhibits",
+        "name" : "plasminogen activation (inhibits) cellular matrix stabilization",
+        "interaction" : "inhibits",
+        "SUID" : 1565,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1564",
+        "source" : "1459",
+        "target" : "1458",
+        "shared_name" : "invasion (activates) carcinogenesis",
+        "shared_interaction" : "activates",
+        "name" : "invasion (activates) carcinogenesis",
+        "interaction" : "activates",
+        "SUID" : 1564,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1563",
+        "source" : "1457",
+        "target" : "1459",
+        "shared_name" : "cellular matrix stabilization (inhibits) invasion",
+        "shared_interaction" : "inhibits",
+        "name" : "cellular matrix stabilization (inhibits) invasion",
+        "interaction" : "inhibits",
+        "SUID" : 1563,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1562",
+        "source" : "1457",
+        "target" : "1456",
+        "shared_name" : "cellular matrix stabilization (activates) angiogenesis",
+        "shared_interaction" : "activates",
+        "name" : "cellular matrix stabilization (activates) angiogenesis",
+        "interaction" : "activates",
+        "SUID" : 1562,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1561",
+        "source" : "1456",
+        "target" : "1448",
+        "shared_name" : "angiogenesis (activates) tumorigenesis",
+        "shared_interaction" : "activates",
+        "name" : "angiogenesis (activates) tumorigenesis",
+        "interaction" : "activates",
+        "SUID" : 1561,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1560",
+        "source" : "1455",
+        "target" : "1454",
+        "shared_name" : "p-HIF-1a (activates) VEGF",
+        "shared_interaction" : "activates",
+        "name" : "p-HIF-1a (activates) VEGF",
+        "interaction" : "activates",
+        "SUID" : 1560,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1559",
+        "source" : "1455",
+        "target" : "1453",
+        "shared_name" : "p-HIF-1a (activates) pVHL",
+        "shared_interaction" : "activates",
+        "name" : "p-HIF-1a (activates) pVHL",
+        "interaction" : "activates",
+        "SUID" : 1559,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1558",
+        "source" : "1454",
+        "target" : "1456",
+        "shared_name" : "VEGF (activates) angiogenesis",
+        "shared_interaction" : "activates",
+        "name" : "VEGF (activates) angiogenesis",
+        "interaction" : "activates",
+        "SUID" : 1558,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1557",
+        "source" : "1453",
+        "target" : "1449",
+        "shared_name" : "pVHL (inhibits) HIF-1a",
+        "shared_interaction" : "inhibits",
+        "name" : "pVHL (inhibits) HIF-1a",
+        "interaction" : "inhibits",
+        "SUID" : 1557,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1556",
+        "source" : "1452",
+        "target" : "1453",
+        "shared_name" : "AMPK (inhibits) pVHL",
+        "shared_interaction" : "inhibits",
+        "name" : "AMPK (inhibits) pVHL",
+        "interaction" : "inhibits",
+        "SUID" : 1556,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1555",
+        "source" : "1451",
+        "target" : "1450",
+        "shared_name" : "O2 (activates) PHD",
+        "shared_interaction" : "activates",
+        "name" : "O2 (activates) PHD",
+        "interaction" : "activates",
+        "SUID" : 1555,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1554",
+        "source" : "1450",
+        "target" : "1449",
+        "shared_name" : "PHD (inhibits) HIF-1a",
+        "shared_interaction" : "inhibits",
+        "name" : "PHD (inhibits) HIF-1a",
+        "interaction" : "inhibits",
+        "SUID" : 1554,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1553",
+        "source" : "1449",
+        "target" : "1455",
+        "shared_name" : "HIF-1a (activates) p-HIF-1a",
+        "shared_interaction" : "activates",
+        "name" : "HIF-1a (activates) p-HIF-1a",
+        "interaction" : "activates",
+        "SUID" : 1553,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1552",
+        "source" : "1449",
+        "target" : "1454",
+        "shared_name" : "HIF-1a (activates) VEGF",
+        "shared_interaction" : "activates",
+        "name" : "HIF-1a (activates) VEGF",
+        "interaction" : "activates",
+        "SUID" : 1552,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1551",
+        "source" : "1448",
+        "target" : "1458",
+        "shared_name" : "tumorigenesis (activates) carcinogenesis",
+        "shared_interaction" : "activates",
+        "name" : "tumorigenesis (activates) carcinogenesis",
+        "interaction" : "activates",
+        "SUID" : 1551,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1550",
+        "source" : "1447",
+        "target" : "1463",
+        "shared_name" : "ERBB2 (activates) PI3K",
+        "shared_interaction" : "activates",
+        "name" : "ERBB2 (activates) PI3K",
+        "interaction" : "activates",
+        "SUID" : 1550,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1547",
+        "source" : "1445",
+        "target" : "1400",
+        "shared_name" : "GSSG (activates) GSR",
+        "shared_interaction" : "activates",
+        "name" : "GSSG (activates) GSR",
+        "interaction" : "activates",
+        "SUID" : 1547,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1546",
+        "source" : "1444",
+        "target" : "1443",
+        "shared_name" : "EGFR (activates) EGFR Fusion Dimer",
+        "shared_interaction" : "activates",
+        "name" : "EGFR (activates) EGFR Fusion Dimer",
+        "interaction" : "activates",
+        "SUID" : 1546,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1545",
+        "source" : "1443",
+        "target" : "1463",
+        "shared_name" : "EGFR Fusion Dimer (activates) PI3K",
+        "shared_interaction" : "activates",
+        "name" : "EGFR Fusion Dimer (activates) PI3K",
+        "interaction" : "activates",
+        "SUID" : 1545,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1544",
+        "source" : "1442",
+        "target" : "1441",
+        "shared_name" : "Cyclin-CDK Complex (inhibits) pRb",
+        "shared_interaction" : "inhibits",
+        "name" : "Cyclin-CDK Complex (inhibits) pRb",
+        "interaction" : "inhibits",
+        "SUID" : 1544,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1543",
+        "source" : "1441",
+        "target" : "1432",
+        "shared_name" : "pRb (inhibits) G1/S transition",
+        "shared_interaction" : "inhibits",
+        "name" : "pRb (inhibits) G1/S transition",
+        "interaction" : "inhibits",
+        "SUID" : 1543,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1542",
+        "source" : "1440",
+        "target" : "1454",
+        "shared_name" : "AKT (activates) VEGF",
+        "shared_interaction" : "activates",
+        "name" : "AKT (activates) VEGF",
+        "interaction" : "activates",
+        "SUID" : 1542,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1541",
+        "source" : "1440",
+        "target" : "1439",
+        "shared_name" : "AKT (inhibits) p21",
+        "shared_interaction" : "inhibits",
+        "name" : "AKT (inhibits) p21",
+        "interaction" : "inhibits",
+        "SUID" : 1541,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1540",
+        "source" : "1439",
+        "target" : "1442",
+        "shared_name" : "p21 (inhibits) Cyclin-CDK Complex",
+        "shared_interaction" : "inhibits",
+        "name" : "p21 (inhibits) Cyclin-CDK Complex",
+        "interaction" : "inhibits",
+        "SUID" : 1540,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1539",
+        "source" : "1438",
+        "target" : "1440",
+        "shared_name" : "PIP3 (activates) AKT",
+        "shared_interaction" : "activates",
+        "name" : "PIP3 (activates) AKT",
+        "interaction" : "activates",
+        "SUID" : 1539,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1538",
+        "source" : "1437",
+        "target" : "1463",
+        "shared_name" : "PIP2 (activates) PI3K",
+        "shared_interaction" : "activates",
+        "name" : "PIP2 (activates) PI3K",
+        "interaction" : "activates",
+        "SUID" : 1538,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1537",
+        "source" : "1436",
+        "target" : "1463",
+        "shared_name" : "FGFR3 Fusion Dimer (activates) PI3K",
+        "shared_interaction" : "activates",
+        "name" : "FGFR3 Fusion Dimer (activates) PI3K",
+        "interaction" : "activates",
+        "SUID" : 1537,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1536",
+        "source" : "1435",
+        "target" : "1436",
+        "shared_name" : "FGFR3 (activates) FGFR3 Fusion Dimer",
+        "shared_interaction" : "activates",
+        "name" : "FGFR3 (activates) FGFR3 Fusion Dimer",
+        "interaction" : "activates",
+        "SUID" : 1536,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1535",
+        "source" : "1434",
+        "target" : "1433",
+        "shared_name" : "cell proliferation (activates) cellular transformation",
+        "shared_interaction" : "activates",
+        "name" : "cell proliferation (activates) cellular transformation",
+        "interaction" : "activates",
+        "SUID" : 1535,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1534",
+        "source" : "1433",
+        "target" : "1448",
+        "shared_name" : "cellular transformation (activates) tumorigenesis",
+        "shared_interaction" : "activates",
+        "name" : "cellular transformation (activates) tumorigenesis",
+        "interaction" : "activates",
+        "SUID" : 1534,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1533",
+        "source" : "1432",
+        "target" : "1428",
+        "shared_name" : "G1/S transition (activates) DNA Synthesis",
+        "shared_interaction" : "activates",
+        "name" : "G1/S transition (activates) DNA Synthesis",
+        "interaction" : "activates",
+        "SUID" : 1533,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1532",
+        "source" : "1431",
+        "target" : "1442",
+        "shared_name" : "CDK4 (activates) Cyclin-CDK Complex",
+        "shared_interaction" : "activates",
+        "name" : "CDK4 (activates) Cyclin-CDK Complex",
+        "interaction" : "activates",
+        "SUID" : 1532,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1531",
+        "source" : "1430",
+        "target" : "1442",
+        "shared_name" : "CYCD1 (activates) Cyclin-CDK Complex",
+        "shared_interaction" : "activates",
+        "name" : "CYCD1 (activates) Cyclin-CDK Complex",
+        "interaction" : "activates",
+        "SUID" : 1531,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1530",
+        "source" : "1429",
+        "target" : "1439",
+        "shared_name" : "p53 (activates) p21",
+        "shared_interaction" : "activates",
+        "name" : "p53 (activates) p21",
+        "interaction" : "activates",
+        "SUID" : 1530,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1529",
+        "source" : "1428",
+        "target" : "1434",
+        "shared_name" : "DNA Synthesis (activates) cell proliferation",
+        "shared_interaction" : "activates",
+        "name" : "DNA Synthesis (activates) cell proliferation",
+        "interaction" : "activates",
+        "SUID" : 1529,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1528",
+        "source" : "1427",
+        "target" : "1426",
+        "shared_name" : "JNK Phosphatase (inhibits) JNK",
+        "shared_interaction" : "inhibits",
+        "name" : "JNK Phosphatase (inhibits) JNK",
+        "interaction" : "inhibits",
+        "SUID" : 1528,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1527",
+        "source" : "1426",
+        "target" : "1452",
+        "shared_name" : "JNK (activates) AMPK",
+        "shared_interaction" : "activates",
+        "name" : "JNK (activates) AMPK",
+        "interaction" : "activates",
+        "SUID" : 1527,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1526",
+        "source" : "1426",
+        "target" : "1423",
+        "shared_name" : "JNK (activates) c-jun",
+        "shared_interaction" : "activates",
+        "name" : "JNK (activates) c-jun",
+        "interaction" : "activates",
+        "SUID" : 1526,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1525",
+        "source" : "1425",
+        "target" : "1424",
+        "shared_name" : "AP-1 (inhibits) c-fos",
+        "shared_interaction" : "inhibits",
+        "name" : "AP-1 (inhibits) c-fos",
+        "interaction" : "inhibits",
+        "SUID" : 1525,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1524",
+        "source" : "1425",
+        "target" : "1429",
+        "shared_name" : "AP-1 (inhibits) p53",
+        "shared_interaction" : "inhibits",
+        "name" : "AP-1 (inhibits) p53",
+        "interaction" : "inhibits",
+        "SUID" : 1524,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1523",
+        "source" : "1425",
+        "target" : "1430",
+        "shared_name" : "AP-1 (activates) CYCD1",
+        "shared_interaction" : "activates",
+        "name" : "AP-1 (activates) CYCD1",
+        "interaction" : "activates",
+        "SUID" : 1523,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1522",
+        "source" : "1425",
+        "target" : "1439",
+        "shared_name" : "AP-1 (inhibits) p21",
+        "shared_interaction" : "inhibits",
+        "name" : "AP-1 (inhibits) p21",
+        "interaction" : "inhibits",
+        "SUID" : 1522,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1521",
+        "source" : "1425",
+        "target" : "1423",
+        "shared_name" : "AP-1 (activates) c-jun",
+        "shared_interaction" : "activates",
+        "name" : "AP-1 (activates) c-jun",
+        "interaction" : "activates",
+        "SUID" : 1521,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1520",
+        "source" : "1424",
+        "target" : "1425",
+        "shared_name" : "c-fos (activates) AP-1",
+        "shared_interaction" : "activates",
+        "name" : "c-fos (activates) AP-1",
+        "interaction" : "activates",
+        "SUID" : 1520,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1519",
+        "source" : "1423",
+        "target" : "1425",
+        "shared_name" : "c-jun (activates) AP-1",
+        "shared_interaction" : "activates",
+        "name" : "c-jun (activates) AP-1",
+        "interaction" : "activates",
+        "SUID" : 1519,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1518",
+        "source" : "1422",
+        "target" : "1426",
+        "shared_name" : "PKC (activates) JNK",
+        "shared_interaction" : "activates",
+        "name" : "PKC (activates) JNK",
+        "interaction" : "activates",
+        "SUID" : 1518,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1517",
+        "source" : "1421",
+        "target" : "1433",
+        "shared_name" : "gene silencing (activates) cellular transformation",
+        "shared_interaction" : "activates",
+        "name" : "gene silencing (activates) cellular transformation",
+        "interaction" : "activates",
+        "SUID" : 1517,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1828",
+        "source" : "1420",
+        "target" : "1826",
+        "shared_name" : "spontaneous mutation (interacts with) PCNA",
+        "shared_interaction" : "interacts with",
+        "name" : "spontaneous mutation (interacts with) PCNA",
+        "interaction" : "activates",
+        "SUID" : 1828,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1515",
+        "source" : "1419",
+        "target" : "1418",
+        "shared_name" : "DNMT3A (activates) DNA Methylation",
+        "shared_interaction" : "activates",
+        "name" : "DNMT3A (activates) DNA Methylation",
+        "interaction" : "activates",
+        "SUID" : 1515,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1514",
+        "source" : "1418",
+        "target" : "1421",
+        "shared_name" : "DNA Methylation (activates) gene silencing",
+        "shared_interaction" : "activates",
+        "name" : "DNA Methylation (activates) gene silencing",
+        "interaction" : "activates",
+        "SUID" : 1514,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1513",
+        "source" : "1418",
+        "target" : "1420",
+        "shared_name" : "DNA Methylation (activates) spontaneous mutation",
+        "shared_interaction" : "activates",
+        "name" : "DNA Methylation (activates) spontaneous mutation",
+        "interaction" : "activates",
+        "SUID" : 1513,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1512",
+        "source" : "1418",
+        "target" : "1417",
+        "shared_name" : "DNA Methylation (activates) genetic stability",
+        "shared_interaction" : "activates",
+        "name" : "DNA Methylation (activates) genetic stability",
+        "interaction" : "activates",
+        "SUID" : 1512,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1511",
+        "source" : "1416",
+        "target" : "1418",
+        "shared_name" : "DNMT1 (activates) DNA Methylation",
+        "shared_interaction" : "activates",
+        "name" : "DNMT1 (activates) DNA Methylation",
+        "interaction" : "activates",
+        "SUID" : 1511,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1510",
+        "source" : "1415",
+        "target" : "1419",
+        "shared_name" : "s-adenosylmethionine (activates) DNMT3A",
+        "shared_interaction" : "activates",
+        "name" : "s-adenosylmethionine (activates) DNMT3A",
+        "interaction" : "activates",
+        "SUID" : 1510,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1509",
+        "source" : "1415",
+        "target" : "1416",
+        "shared_name" : "s-adenosylmethionine (activates) DNMT1",
+        "shared_interaction" : "activates",
+        "name" : "s-adenosylmethionine (activates) DNMT1",
+        "interaction" : "activates",
+        "SUID" : 1509,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1508",
+        "source" : "1415",
+        "target" : "1414",
+        "shared_name" : "s-adenosylmethionine (activates) AS3MT",
+        "shared_interaction" : "activates",
+        "name" : "s-adenosylmethionine (activates) AS3MT",
+        "interaction" : "activates",
+        "SUID" : 1508,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1506",
+        "source" : "1414",
+        "target" : "1412",
+        "shared_name" : "AS3MT (activates) s-adenosylhomocysteine",
+        "shared_interaction" : "activates",
+        "name" : "AS3MT (activates) s-adenosylhomocysteine",
+        "interaction" : "activates",
+        "SUID" : 1506,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1504",
+        "source" : "1411",
+        "target" : "1410",
+        "shared_name" : "TXN* (activates) TRXR",
+        "shared_interaction" : "activates",
+        "name" : "TXN* (activates) TRXR",
+        "interaction" : "activates",
+        "SUID" : 1504,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1503",
+        "source" : "1410",
+        "target" : "1409",
+        "shared_name" : "TRXR (activates) TXN",
+        "shared_interaction" : "activates",
+        "name" : "TRXR (activates) TXN",
+        "interaction" : "activates",
+        "SUID" : 1503,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1502",
+        "source" : "1409",
+        "target" : "1408",
+        "shared_name" : "TXN (activates) PRDX1,2,5",
+        "shared_interaction" : "activates",
+        "name" : "TXN (activates) PRDX1,2,5",
+        "interaction" : "activates",
+        "SUID" : 1502,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1501",
+        "source" : "1409",
+        "target" : "1411",
+        "shared_name" : "TXN (activates) TXN*",
+        "shared_interaction" : "activates",
+        "name" : "TXN (activates) TXN*",
+        "interaction" : "activates",
+        "SUID" : 1501,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1500",
+        "source" : "1408",
+        "target" : "1411",
+        "shared_name" : "PRDX1,2,5 (activates) TXN*",
+        "shared_interaction" : "activates",
+        "name" : "PRDX1,2,5 (activates) TXN*",
+        "interaction" : "activates",
+        "SUID" : 1500,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1499",
+        "source" : "1408",
+        "target" : "1407",
+        "shared_name" : "PRDX1,2,5 (activates) H2O",
+        "shared_interaction" : "activates",
+        "name" : "PRDX1,2,5 (activates) H2O",
+        "interaction" : "activates",
+        "SUID" : 1499,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1498",
+        "source" : "1406",
+        "target" : "1426",
+        "shared_name" : "peroxides (activates) JNK",
+        "shared_interaction" : "activates",
+        "name" : "peroxides (activates) JNK",
+        "interaction" : "activates",
+        "SUID" : 1498,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1497",
+        "source" : "1406",
+        "target" : "1405",
+        "shared_name" : "peroxides (activates) oxidative DNA damage",
+        "shared_interaction" : "activates",
+        "name" : "peroxides (activates) oxidative DNA damage",
+        "interaction" : "activates",
+        "SUID" : 1497,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1496",
+        "source" : "1406",
+        "target" : "1404",
+        "shared_name" : "peroxides (activates) lipid peroxidation",
+        "shared_interaction" : "activates",
+        "name" : "peroxides (activates) lipid peroxidation",
+        "interaction" : "activates",
+        "SUID" : 1496,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1495",
+        "source" : "1406",
+        "target" : "1408",
+        "shared_name" : "peroxides (activates) PRDX1,2,5",
+        "shared_interaction" : "activates",
+        "name" : "peroxides (activates) PRDX1,2,5",
+        "interaction" : "activates",
+        "SUID" : 1495,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1494",
+        "source" : "1406",
+        "target" : "1403",
+        "shared_name" : "peroxides (activates) GPX1",
+        "shared_interaction" : "activates",
+        "name" : "peroxides (activates) GPX1",
+        "interaction" : "activates",
+        "SUID" : 1494,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1493",
+        "source" : "1405",
+        "target" : "1420",
+        "shared_name" : "oxidative DNA damage (activates) spontaneous mutation",
+        "shared_interaction" : "activates",
+        "name" : "oxidative DNA damage (activates) spontaneous mutation",
+        "interaction" : "activates",
+        "SUID" : 1493,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1492",
+        "source" : "1405",
+        "target" : "1417",
+        "shared_name" : "oxidative DNA damage (inhibits) genetic stability",
+        "shared_interaction" : "inhibits",
+        "name" : "oxidative DNA damage (inhibits) genetic stability",
+        "interaction" : "inhibits",
+        "SUID" : 1492,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1491",
+        "source" : "1403",
+        "target" : "1407",
+        "shared_name" : "GPX1 (activates) H2O",
+        "shared_interaction" : "activates",
+        "name" : "GPX1 (activates) H2O",
+        "interaction" : "activates",
+        "SUID" : 1491,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1490",
+        "source" : "1403",
+        "target" : "1402",
+        "shared_name" : "GPX1 (activates) alcohols",
+        "shared_interaction" : "activates",
+        "name" : "GPX1 (activates) alcohols",
+        "interaction" : "activates",
+        "SUID" : 1490,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1489",
+        "source" : "1403",
+        "target" : "1445",
+        "shared_name" : "GPX1 (activates) GSSG",
+        "shared_interaction" : "activates",
+        "name" : "GPX1 (activates) GSSG",
+        "interaction" : "activates",
+        "SUID" : 1489,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1488",
+        "source" : "1401",
+        "target" : "1445",
+        "shared_name" : "GST (activates) GSSG",
+        "shared_interaction" : "activates",
+        "name" : "GST (activates) GSSG",
+        "interaction" : "activates",
+        "SUID" : 1488,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1487",
+        "source" : "1401",
+        "target" : "1396",
+        "shared_name" : "GST (activates) Reduced Substrate",
+        "shared_interaction" : "activates",
+        "name" : "GST (activates) Reduced Substrate",
+        "interaction" : "activates",
+        "SUID" : 1487,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1486",
+        "source" : "1400",
+        "target" : "1399",
+        "shared_name" : "GSR (activates) GSH",
+        "shared_interaction" : "activates",
+        "name" : "GSR (activates) GSH",
+        "interaction" : "activates",
+        "SUID" : 1486,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1485",
+        "source" : "1399",
+        "target" : "1403",
+        "shared_name" : "GSH (activates) GPX1",
+        "shared_interaction" : "activates",
+        "name" : "GSH (activates) GPX1",
+        "interaction" : "activates",
+        "SUID" : 1485,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1484",
+        "source" : "1399",
+        "target" : "1401",
+        "shared_name" : "GSH (activates) GST",
+        "shared_interaction" : "activates",
+        "name" : "GSH (activates) GST",
+        "interaction" : "activates",
+        "SUID" : 1484,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1806",
+        "source" : "1398",
+        "target" : "1804",
+        "shared_name" : "Electrophiles and Oxidants (interacts with) Node 5",
+        "pubmed_ids" : [ "26636041" ],
+        "shared_interaction" : "interacts with",
+        "name" : "Electrophiles and Oxidants (interacts with) Node 5",
+        "interaction" : "activates",
+        "SUID" : 1806,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1802",
+        "source" : "1398",
+        "target" : "1788",
+        "shared_name" : "Electrophiles and Oxidants (interacts with) protein misfolding",
+        "shared_interaction" : "interacts with",
+        "name" : "Electrophiles and Oxidants (interacts with) protein misfolding",
+        "interaction" : "activates",
+        "SUID" : 1802,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1483",
+        "source" : "1398",
+        "target" : "1409",
+        "shared_name" : "Electrophilic Substrate (activates) TXN",
+        "shared_interaction" : "activates",
+        "name" : "Electrophilic Substrate (activates) TXN",
+        "interaction" : "activates",
+        "SUID" : 1483,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1482",
+        "source" : "1398",
+        "target" : "1408",
+        "shared_name" : "Electrophilic Substrate (activates) PRDX1,2,5",
+        "shared_interaction" : "activates",
+        "name" : "Electrophilic Substrate (activates) PRDX1,2,5",
+        "interaction" : "activates",
+        "SUID" : 1482,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1481",
+        "source" : "1398",
+        "target" : "1404",
+        "shared_name" : "Electrophilic Substrate (activates) lipid peroxidation",
+        "shared_interaction" : "activates",
+        "name" : "Electrophilic Substrate (activates) lipid peroxidation",
+        "interaction" : "activates",
+        "SUID" : 1481,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1480",
+        "source" : "1398",
+        "target" : "1405",
+        "shared_name" : "Electrophilic Substrate (activates) oxidative DNA damage",
+        "shared_interaction" : "activates",
+        "name" : "Electrophilic Substrate (activates) oxidative DNA damage",
+        "interaction" : "activates",
+        "SUID" : 1480,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1479",
+        "source" : "1398",
+        "target" : "1401",
+        "shared_name" : "Electrophilic Substrate (activates) GST",
+        "shared_interaction" : "activates",
+        "name" : "Electrophilic Substrate (activates) GST",
+        "interaction" : "activates",
+        "SUID" : 1479,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1478",
+        "source" : "1398",
+        "target" : "1397",
+        "shared_name" : "Electrophilic Substrate (activates) Keap1",
+        "shared_interaction" : "activates",
+        "name" : "Electrophilic Substrate (activates) Keap1",
+        "interaction" : "activates",
+        "SUID" : 1478,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1477",
+        "source" : "1397",
+        "target" : "1391",
+        "shared_name" : "Keap1 (inhibits) Nrf2",
+        "shared_interaction" : "inhibits",
+        "name" : "Keap1 (inhibits) Nrf2",
+        "interaction" : "inhibits",
+        "SUID" : 1477,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1476",
+        "source" : "1395",
+        "target" : "1399",
+        "shared_name" : "GSS (activates) GSH",
+        "shared_interaction" : "activates",
+        "name" : "GSS (activates) GSH",
+        "interaction" : "activates",
+        "SUID" : 1476,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1475",
+        "source" : "1394",
+        "target" : "1393",
+        "shared_name" : "GCLM (activates) L-gamma-glutamyl-L-cysteine",
+        "shared_interaction" : "activates",
+        "name" : "GCLM (activates) L-gamma-glutamyl-L-cysteine",
+        "interaction" : "activates",
+        "SUID" : 1475,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1474",
+        "source" : "1393",
+        "target" : "1395",
+        "shared_name" : "L-gamma-glutamyl-L-cysteine (activates) GSS",
+        "shared_interaction" : "activates",
+        "name" : "L-gamma-glutamyl-L-cysteine (activates) GSS",
+        "interaction" : "activates",
+        "SUID" : 1474,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1473",
+        "source" : "1392",
+        "target" : "1394",
+        "shared_name" : "L-Glutamate (activates) GCLM",
+        "shared_interaction" : "activates",
+        "name" : "L-Glutamate (activates) GCLM",
+        "interaction" : "activates",
+        "SUID" : 1473,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1472",
+        "source" : "1391",
+        "target" : "1390",
+        "shared_name" : "Nrf2 (activates) G6PD",
+        "shared_interaction" : "activates",
+        "name" : "Nrf2 (activates) G6PD",
+        "interaction" : "activates",
+        "SUID" : 1472,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1471",
+        "source" : "1391",
+        "target" : "1389",
+        "shared_name" : "Nrf2 (activates) Pgd",
+        "shared_interaction" : "activates",
+        "name" : "Nrf2 (activates) Pgd",
+        "interaction" : "activates",
+        "SUID" : 1471,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1470",
+        "source" : "1391",
+        "target" : "1403",
+        "shared_name" : "Nrf2 (activates) GPX1",
+        "shared_interaction" : "activates",
+        "name" : "Nrf2 (activates) GPX1",
+        "interaction" : "activates",
+        "SUID" : 1470,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1469",
+        "source" : "1391",
+        "target" : "1394",
+        "shared_name" : "Nrf2 (activates) GCLM",
+        "shared_interaction" : "activates",
+        "name" : "Nrf2 (activates) GCLM",
+        "interaction" : "activates",
+        "SUID" : 1469,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1468",
+        "source" : "1390",
+        "target" : "1428",
+        "shared_name" : "G6PD (activates) DNA Synthesis",
+        "shared_interaction" : "activates",
+        "name" : "G6PD (activates) DNA Synthesis",
+        "interaction" : "activates",
+        "SUID" : 1468,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1467",
+        "source" : "1389",
+        "target" : "1428",
+        "shared_name" : "Pgd (activates) DNA Synthesis",
+        "shared_interaction" : "activates",
+        "name" : "Pgd (activates) DNA Synthesis",
+        "interaction" : "activates",
+        "SUID" : 1467,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1466",
+        "source" : "1388",
+        "target" : "1391",
+        "shared_name" : "Brca1 (activates) Nrf2",
+        "shared_interaction" : "activates",
+        "name" : "Brca1 (activates) Nrf2",
+        "interaction" : "activates",
+        "SUID" : 1466,
+        "selected" : false
+      }
+    }, {
+      "data" : {
+        "id" : "1465",
+        "source" : "1387",
+        "target" : "1391",
+        "shared_name" : "Palb2 (activates) Nrf2",
+        "shared_interaction" : "activates",
+        "name" : "Palb2 (activates) Nrf2",
+        "interaction" : "activates",
+        "SUID" : 1465,
         "selected" : false
       }
     } ]
